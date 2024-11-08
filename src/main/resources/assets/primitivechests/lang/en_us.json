@@ -1,0 +1,7 @@
+{
+  "block.primitivechests.primitive_chest": "Primitive Chest",
+  "container.primitivechests.primitive_chest": "Primitive Chest",
+  "block.primitivechests.advanced_primitive_chest": "Advanced Primitive Chest",
+  "container.primitivechests.advanced_primitive_chest": "Advanced Primitive Chest",
+  "itemGroup.primitivechests.blocks": "Primitive Chests"
+}

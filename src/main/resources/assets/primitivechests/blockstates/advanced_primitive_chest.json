@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model":  "primitivechests:block/advanced_primitive_chest",
+      "y": 90
+    },
+    "facing=north": {
+      "model":  "primitivechests:block/advanced_primitive_chest"
+    },
+    "facing=south": {
+      "model":  "primitivechests:block/advanced_primitive_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model":  "primitivechests:block/advanced_primitive_chest",
+      "y": 270
+    }
+  }
+}
